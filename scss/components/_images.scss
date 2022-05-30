@@ -1,0 +1,17 @@
+.img-avatar {
+  @include image(block, auto, auto, 10px, 100%);
+    
+    max-height: 100%;
+  }
+  
+  .img-frame {
+    @include image(block, auto, auto, 10px, 100%);
+   
+    padding: 13px;
+    border: 1px solid $lightgrey;
+  }
+  
+  .img-logo {
+    @include image(block, auto, auto);
+   
+  }

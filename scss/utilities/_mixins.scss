@@ -1,0 +1,7 @@
+@mixin image($dis, $marg-l, $marg-r, $marg-t:null , $max-w:null) {
+    display: $dis;
+    margin-left: $marg-l;
+    margin-right: $marg-r;
+    margin-top: $marg-t;
+    max-width: $max-w;
+}
