@@ -422,7 +422,7 @@ a {
   margin: 10px auto 0;
   border: none;
   padding: 10px;
-  border-bottom: 5px, solid, #58e1c1;
+  border-bottom: 5px solid #51DDFC;
 }
 
 .hidden {
@@ -568,7 +568,7 @@ a {
 }
 
 .theme.col-11 {
-  background-color: #51ddfc;
+  background-color: #51DDFC;
 }
 
 .theme.col-12 {
